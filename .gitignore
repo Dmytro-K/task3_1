@@ -1,0 +1,24 @@
+# Compiled Object files
+*.slo
+*.lo
+*.o
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+
+*.ncb
+*.sdf
+*.opensdf
+
+#Debug
+#Release
+var7/var7/Debug
+var7/var7/Release
+*~
+
