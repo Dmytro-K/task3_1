@@ -16,9 +16,9 @@
 *.sdf
 *.opensdf
 
-#Debug
-#Release
-var7/var7/Debug
-var7/var7/Release
+Debug
+Release
+!/Debug
+!/Release
 *~
 

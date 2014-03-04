@@ -17,6 +17,7 @@ char* StrChr( const char* str, char c )
 		{
 			return (char*)str;
 		}
+		str++;
 	}
 	return NULL;
 }
@@ -41,22 +42,22 @@ size_t StrLen( const char* str )
 
 bool IsGraph( char chr )
 {
-	return chr >= 0x21 && chr <= 0x7E;
+	return ( chr >= 0x21 ) && ( chr <= 0x7E );
 }
 
 bool IsDigit( char chr )
 {
-	return chr >= 0x30 && chr <= 0x39;
+	return ( chr >= 0x30 ) && ( chr <= 0x39 );
 }
 
 bool IsUpper( char chr )
 {
-	return chr >= 0x41 && chr <= 0x5A;
+	return ( chr >= 0x41 ) && ( chr <= 0x5A );
 }
 
 bool IsLower( char chr )
 {
-	return chr >= 0x61 && chr <= 0x7A;
+	return ( chr >= 0x61 ) && ( chr <= 0x7A );
 }
 
 bool IsAlpha( char chr )
