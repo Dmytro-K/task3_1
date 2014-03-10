@@ -1,5 +1,5 @@
-﻿Сборка начата 05.03.2014 1:02:31.
-     1>Проект "D:\MySRC\c\glbasecamp\task3\task3_1\task3_1\task3_1.vcxproj" в узле 2 (целевые объекты Build).
+﻿Сборка начата 06.03.2014 15:57:18.
+     1>Проект "d:\MySRC\c\glbasecamp\task3\task3_1\task3_1\task3_1.vcxproj" в узле 2 (целевые объекты Build).
      1>InitializeBuildStatus:
          Создание "Debug\task3_1.tlog\unsuccessfulbuild", так как было задано "AlwaysCreate".
        ClCompile:
@@ -14,8 +14,8 @@
        FinalizeBuildStatus:
          Файл "Debug\task3_1.tlog\unsuccessfulbuild" удаляется.
          Обращение к "Debug\task3_1.tlog\task3_1.lastbuildstate".
-     1>Сборка проекта "D:\MySRC\c\glbasecamp\task3\task3_1\task3_1\task3_1.vcxproj" завершена (целевые объекты Build).
+     1>Сборка проекта "d:\MySRC\c\glbasecamp\task3\task3_1\task3_1\task3_1.vcxproj" завершена (целевые объекты Build).
 
 Сборка успешно завершена.
 
-Затраченное время: 00:00:01.89
+Затраченное время: 00:00:00.41

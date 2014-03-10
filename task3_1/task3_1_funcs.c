@@ -29,13 +29,9 @@ size_t StrLen( const char* str )
 	{
 		return 0;
 	}
-	for( i=0; ; i++ )
+	for( i = 0; *str != 0; i++, str++ )
 	{
-		if( *str == 0 )
-		{
-			break;
-		}
-		str++;
+		; /* NULL */
 	}
 	return i;
 }

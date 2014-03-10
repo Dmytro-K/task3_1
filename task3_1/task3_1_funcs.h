@@ -85,7 +85,7 @@ bool IsAlnum( char chr );
 char* FindMaxWord( const char* str );
 
 /**
- * @brief Searches for the longest word
+ * @brief Read from stdin string of any length.
  * @return Returns a pointer to the entered string, or NULL if there is insufficient memory available.
  */
 char* Input( void );
